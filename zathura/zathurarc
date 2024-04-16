@@ -1,1 +1,3 @@
-/home/dirghayu/main/Dropbox/Mackup/.config/zathura/zathurarc
+set guioptions none
+set adjust-open	"best-fit"
+set show-recent	4
